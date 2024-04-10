@@ -5,8 +5,10 @@
     <color name="gray">#F4F4F4</color>
     <color name="orange">#FF8F00</color>
     <color name="blue">#1565C0</color>
+    <color name="lavender"> #734f96 </color>
     <color name="lightburgundy">#A8415B</color>
-    <color name="burgundy">#800020 </color>
+
+
 
 
 </resources>

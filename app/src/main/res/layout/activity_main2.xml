@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:background="@drawable/rounded_corner"
-        android:backgroundTint="@color/burgundy"
+        android:backgroundTint="@color/lightburgundy"
         android:padding="8dp"
         android:orientation="vertical">
 

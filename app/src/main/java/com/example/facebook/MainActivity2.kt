@@ -8,7 +8,7 @@ import com.google.firebase.database.FirebaseDatabase
 
 class MainActivity2 : AppCompatActivity() {
     private lateinit var binding: ActivityMain2Binding
-    lateinit var quizModelList : MutableList<QuizModel>
+    lateinit var quizModelList: MutableList<QuizModel>
     lateinit var adapter: QuizListAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -27,7 +27,7 @@ class MainActivity2 : AppCompatActivity() {
 
     }
 
-    private fun getDataFromFirebase(){
+    private fun getDataFromFirebase() {
         FirebaseDatabase.getInstance().reference
             .get()
             .addOnSuccessListener { dataSnapshot ->
