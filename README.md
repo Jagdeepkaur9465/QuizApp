@@ -21,6 +21,15 @@ Using Firebase to save information about users, quizzes, and questions in a smar
 
 Making the app smart enough to show questions, check our answers, and calculate our score. Add a timer to make it more exciting.
 
+############CHANGES##########
+
+added launcher icon
+
+secured the database 
+
+tried to add navigation
+
+
 
 
 
