@@ -27,6 +27,8 @@ added launcher icon
 
 secured the database 
 
+added progress bar with timer
+
 tried to add navigation
 
 
